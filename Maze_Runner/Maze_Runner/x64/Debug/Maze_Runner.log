@@ -1,0 +1,38 @@
+﻿  0.c
+  GPT.c
+  map.c
+  maze.c
+  mazePt.c
+C:\Users\User\Desktop\Maze_Runner\Maze_Runner\mazePt.c(11,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\Users\User\Desktop\Maze_Runner\Maze_Runner\mazePt.c(12,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\Users\User\Desktop\Maze_Runner\Maze_Runner\mazePt.c(95,8): warning C4305: '초기화 중': 'unsigned __int64'에서 'double'(으)로 잘립니다.
+C:\Users\User\Desktop\Maze_Runner\Maze_Runner\mazePt.c(96,8): warning C4305: '초기화 중': 'unsigned __int64'에서 'double'(으)로 잘립니다.
+C:\Users\User\Desktop\Maze_Runner\Maze_Runner\mazePt.c(97,8): warning C4305: '초기화 중': 'unsigned __int64'에서 'double'(으)로 잘립니다.
+C:\Users\User\Desktop\Maze_Runner\Maze_Runner\mazePt.c(98,8): warning C4305: '초기화 중': 'unsigned __int64'에서 'double'(으)로 잘립니다.
+C:\Users\User\Desktop\Maze_Runner\Maze_Runner\mazePt.c(99,8): warning C4305: '초기화 중': 'unsigned __int64'에서 'double'(으)로 잘립니다.
+C:\Users\User\Desktop\Maze_Runner\Maze_Runner\mazePt.c(100,8): warning C4305: '초기화 중': 'unsigned __int64'에서 'double'(으)로 잘립니다.
+C:\Users\User\Desktop\Maze_Runner\Maze_Runner\mazePt.c(101,8): warning C4305: '초기화 중': 'unsigned __int64'에서 'double'(으)로 잘립니다.
+C:\Users\User\Desktop\Maze_Runner\Maze_Runner\mazePt.c(102,8): warning C4305: '초기화 중': 'unsigned __int64'에서 'double'(으)로 잘립니다.
+C:\Users\User\Desktop\Maze_Runner\Maze_Runner\mazePt.c(103,8): warning C4305: '초기화 중': 'unsigned __int64'에서 'double'(으)로 잘립니다.
+C:\Users\User\Desktop\Maze_Runner\Maze_Runner\mazePt.c(104,8): warning C4305: '초기화 중': 'unsigned __int64'에서 'double'(으)로 잘립니다.
+C:\Users\User\Desktop\Maze_Runner\Maze_Runner\mazePt.c(105,8): warning C4305: '초기화 중': 'unsigned __int64'에서 'double'(으)로 잘립니다.
+C:\Users\User\Desktop\Maze_Runner\Maze_Runner\mazePt.c(106,8): warning C4305: '초기화 중': 'unsigned __int64'에서 'double'(으)로 잘립니다.
+C:\Users\User\Desktop\Maze_Runner\Maze_Runner\mazePt.c(107,8): warning C4305: '초기화 중': 'unsigned __int64'에서 'double'(으)로 잘립니다.
+C:\Users\User\Desktop\Maze_Runner\Maze_Runner\mazePt.c(108,8): warning C4305: '초기화 중': 'unsigned __int64'에서 'double'(으)로 잘립니다.
+C:\Users\User\Desktop\Maze_Runner\Maze_Runner\mazePt.c(109,8): warning C4305: '초기화 중': 'unsigned __int64'에서 'double'(으)로 잘립니다.
+C:\Users\User\Desktop\Maze_Runner\Maze_Runner\mazePt.c(1186,12): warning C4098: 'difficulty': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\User\Desktop\Maze_Runner\Maze_Runner\mazePt.c(1192,12): warning C4098: 'difficulty': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\User\Desktop\Maze_Runner\Maze_Runner\mazePt.c(1198,12): warning C4098: 'difficulty': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\User\Desktop\Maze_Runner\Maze_Runner\mazePt.c(1491,12): warning C4098: 'easystage': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\User\Desktop\Maze_Runner\Maze_Runner\mazePt.c(1497,12): warning C4098: 'easystage': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\User\Desktop\Maze_Runner\Maze_Runner\mazePt.c(1503,12): warning C4098: 'easystage': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\User\Desktop\Maze_Runner\Maze_Runner\mazePt.c(1619,12): warning C4098: 'normalstage': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\User\Desktop\Maze_Runner\Maze_Runner\mazePt.c(1625,12): warning C4098: 'normalstage': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\User\Desktop\Maze_Runner\Maze_Runner\mazePt.c(1631,12): warning C4098: 'normalstage': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\User\Desktop\Maze_Runner\Maze_Runner\mazePt.c(1747,12): warning C4098: 'hardstage': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\User\Desktop\Maze_Runner\Maze_Runner\mazePt.c(1753,12): warning C4098: 'hardstage': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\User\Desktop\Maze_Runner\Maze_Runner\mazePt.c(1759,12): warning C4098: 'hardstage': 'void' 함수에서 값을 반환하고 있습니다.
+  random.c
+  코드를 생성하고 있습니다...
+C:\Users\User\Desktop\Maze_Runner\Maze_Runner\mazePt.c(1157,1): warning C4717: 'explanation': 모든 제어 경로에서 재귀적입니다. 함수로 인해 런타임 스택 오버플로가 발생합니다.
+  Maze_Runner.vcxproj -> C:\Users\User\Desktop\Maze_Runner\x64\Debug\Maze_Runner.exe
